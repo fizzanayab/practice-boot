@@ -1,0 +1,5 @@
+tbody tr:hover{
+    color: aliceblue;
+
+    background-color: rgb(165, 85, 85);
+}
